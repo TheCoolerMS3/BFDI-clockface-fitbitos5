@@ -1,0 +1,6 @@
+<svg>
+  <image href="background.jpeg" width="336" height="336" id="background" />
+  <image href="characters/four.png" id="chara" width="160" height="165" y="150" x="80" />
+  <text id="myLabel" x="5%" y="30%" font-size="65" fill="black"></text>
+  <text id="date" x="5%" y="40%" font-size="35" fill="black"></text>
+</svg>
