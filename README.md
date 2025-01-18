@@ -1,5 +1,5 @@
 # BFDI-clockface-fitbitos5
- A Battle For Dream Island themed clockface for Fitbit OS 5.
+ A [Battle For Dream Island](https://bfdi.tv) themed clockface for Fitbit OS 5.
 
 Install on the Fitbit Gallery: https://gallery.fitbit.com/details/5049cf2d-61d5-47c3-92a4-b7f6858c0443
 
