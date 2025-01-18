@@ -8,3 +8,7 @@ Supported devices:
 * Fitbit Versa 4 (Use SDK 7.x for builds)
 * Fitbit Sense (Use SDK 6.x for builds)
 * Fitbit Sense 2 (Use SDK 7.x for builds)
+
+Languages:
+* JavaScript
+* CSS
